@@ -3,7 +3,6 @@
 #include<iostream>
 using namespace std;
 
-
 void reverse(int arr[], int n){
   int temp;
   for(int i=0;i<n/2;i++){
